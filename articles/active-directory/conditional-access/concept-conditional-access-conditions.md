@@ -119,7 +119,7 @@ These browsers support device authentication, allowing the device to be identifi
 > Safari is supported for device-based Conditional Access, but it can not satisfy the **Require approved client app** or **Require app protection policy** conditions. A managed browser like Microsoft Edge will satisfy approved client app and app protection policy requirements.
 > On iOS with 3rd party MDM solution only Microsoft Edge browser supports device policy.
 > 
-> [Firefox 91+](https://support.mozilla.org/kb/windows-sso) is supported for device-based Conditional Access, but "Allow Windows single sign-on for Microsoft, work, and school accounts" needs to be enabled. 
+> [Firefox 91+](https://aka.ms/FirefoxSSO) is supported for device-based Conditional Access, but "Allow Windows single sign-on for Microsoft, work, and school accounts" needs to be enabled. 
 
 #### Why do I see a certificate prompt in the browser
 
